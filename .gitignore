@@ -1,0 +1,7 @@
+/DigitalPsi.iml
+.idea
+**node_modules/
+/Frontend/dist/
+/Frontend/node/
+/RestServer/target/
+/knowitUiADemo.iml
